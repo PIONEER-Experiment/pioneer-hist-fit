@@ -226,7 +226,8 @@ def hist_info_dict(hist_names, hist_tf_names):
             'scale': 1,
             'tf_eff': 1e-3,
             'tf_uncert': 0.5,
-            'color': ROOT.kAzure - 10,
+            'color': ROOT.kCyan,
+            # 'color': ROOT.kAzure - 10,
         },
     }
 
